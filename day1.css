@@ -111,7 +111,14 @@ i{
 .circle{
     border-radius: 100%; width: 100%; height: 148px;
 }
-
+.contact{
+    width:100%;
+    height: 500px;
+    background:black url(map-image.png)
+}
+input{
+    width: 300%;
+}
 @media screen and (max-width:768px){
     .subtitle{
         font-size:20px;
